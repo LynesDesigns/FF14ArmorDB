@@ -1,0 +1,487 @@
+[
+  {
+    "name": "equipment",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Equipment",
+    "image": ""
+  },
+  {
+    "name": "attribute",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Attribute",
+    "image": ""
+  },
+  {
+    "name": "class",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Class",
+    "image": ""
+  },
+  {
+    "name": "job",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Job",
+    "image": ""
+  },
+  {
+    "name": "Head",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Head",
+    "image": ""
+  },
+  {
+    "name": "Body",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Body",
+    "image": ""
+  },
+  {
+    "name": "Hands",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Hands",
+    "image": ""
+  },
+  {
+    "name": "Legs",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Legs",
+    "image": ""
+  },
+  {
+    "name": "Feet",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Feet",
+    "image": ""
+  },
+  {
+    "name": "Shield",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Shield",
+    "image": ""
+  },
+  {
+    "name": "shields",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Shield",
+    "image": ""
+  },
+  {
+    "name": "gladiators",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Gladiator",
+    "image": ""
+  },
+  {
+    "name": "paladins",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Paladin",
+    "image": ""
+  },
+  {
+    "name": "thaumaturges",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Thaumaturge",
+    "image": ""
+  },
+  {
+    "name": "conjurers",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Conjurer",
+    "image": ""
+  },
+  {
+    "name": "Waist",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Waist",
+    "image": ""
+  },
+  {
+    "name": "patch 6.0",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Patch_6.0",
+    "image": ""
+  },
+  {
+    "name": "Endwalker",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Endwalker",
+    "image": ""
+  },
+  {
+    "name": "Tanks",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Tank",
+    "image": ""
+  },
+  {
+    "name": "Gladiator",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Gladiator",
+    "image": ""
+  },
+  {
+    "name": "Marauder",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Marauder",
+    "image": ""
+  },
+  {
+    "name": "Paladin",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Paladin",
+    "image": ""
+  },
+  {
+    "name": "Warrior",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Warrior",
+    "image": ""
+  },
+  {
+    "name": "Dark Knight",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Dark_Knight",
+    "image": ""
+  },
+  {
+    "name": "Gunbreaker",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Gunbreaker",
+    "image": ""
+  },
+  {
+    "name": "Fending Armor Gallery",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Fending_Armor_Gallery",
+    "image": ""
+  },
+  {
+    "name": "Melee DPS",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/DPS",
+    "image": ""
+  },
+  {
+    "name": "Lancer",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Lancer",
+    "image": ""
+  },
+  {
+    "name": "Dragoon",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Dragoon",
+    "image": ""
+  },
+  {
+    "name": "Reaper",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Reaper",
+    "image": ""
+  },
+  {
+    "name": "Maiming Armor Gallery",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Maiming_Armor_Gallery",
+    "image": ""
+  },
+  {
+    "name": "Melee DPS",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/DPS",
+    "image": ""
+  },
+  {
+    "name": "Pugilist",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Pugilist",
+    "image": ""
+  },
+  {
+    "name": "Monk",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Monk",
+    "image": ""
+  },
+  {
+    "name": "Samurai",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Samurai",
+    "image": ""
+  },
+  {
+    "name": "Striking Armor Gallery",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Striking_Armor_Gallery",
+    "image": ""
+  },
+  {
+    "name": "Melee DPS",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/DPS",
+    "image": ""
+  },
+  {
+    "name": "Rogue",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Rogue",
+    "image": ""
+  },
+  {
+    "name": "Ninja",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Ninja",
+    "image": ""
+  },
+  {
+    "name": "Viper",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Viper",
+    "image": ""
+  },
+  {
+    "name": "Scouting Armor Gallery",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Scouting_Armor_Gallery",
+    "image": ""
+  },
+  {
+    "name": "Physical Ranged DPS",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/DPS",
+    "image": ""
+  },
+  {
+    "name": "Archer",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Archer",
+    "image": ""
+  },
+  {
+    "name": "Bard",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Bard",
+    "image": ""
+  },
+  {
+    "name": "Machinist",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Machinist",
+    "image": ""
+  },
+  {
+    "name": "Dancer",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Dancer",
+    "image": ""
+  },
+  {
+    "name": "Aiming Armor Gallery",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Aiming_Armor_Gallery",
+    "image": ""
+  },
+  {
+    "name": "Magical Ranged DPS",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/DPS",
+    "image": ""
+  },
+  {
+    "name": "Thaumaturge",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Thaumaturge",
+    "image": ""
+  },
+  {
+    "name": "Arcanist",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Arcanist",
+    "image": ""
+  },
+  {
+    "name": "Black Mage",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Black_Mage",
+    "image": ""
+  },
+  {
+    "name": "Summoner",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Summoner",
+    "image": ""
+  },
+  {
+    "name": "Red Mage",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Red_Mage",
+    "image": ""
+  },
+  {
+    "name": "Pictomancer",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Pictomancer",
+    "image": ""
+  },
+  {
+    "name": "Blue Mage",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Blue_Mage",
+    "image": ""
+  },
+  {
+    "name": "Casting Armor Gallery",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Casting_Armor_Gallery",
+    "image": ""
+  },
+  {
+    "name": "Healers",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Healer",
+    "image": ""
+  },
+  {
+    "name": "Conjurer",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Conjurer",
+    "image": ""
+  },
+  {
+    "name": "White Mage",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/White_Mage",
+    "image": ""
+  },
+  {
+    "name": "Scholar",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Scholar",
+    "image": ""
+  },
+  {
+    "name": "Astrologian",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Astrologian",
+    "image": ""
+  },
+  {
+    "name": "Sage",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Sage",
+    "image": ""
+  },
+  {
+    "name": "Healing Armor Gallery",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Healing_Armor_Gallery",
+    "image": ""
+  },
+  {
+    "name": "Leveling Gear Guide",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Leveling_Gear_Guide",
+    "image": ""
+  },
+  {
+    "name": "Endgame Gear Guide",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Endgame_Gear_Guide",
+    "image": ""
+  },
+  {
+    "name": "Armorer",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Armorer",
+    "image": ""
+  },
+  {
+    "name": "Leatherworker",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Leatherworker",
+    "image": ""
+  },
+  {
+    "name": "Weaver",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Weaver",
+    "image": ""
+  },
+  {
+    "name": "duties",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Duties",
+    "image": ""
+  },
+  {
+    "name": "quests",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Quest",
+    "image": ""
+  },
+  {
+    "name": "NPCs",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/NPC",
+    "image": ""
+  },
+  {
+    "name": "currencies",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Currencies",
+    "image": ""
+  },
+  {
+    "name": "Gil",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Gil",
+    "image": ""
+  },
+  {
+    "name": "NPC vendors",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Merchant",
+    "image": ""
+  },
+  {
+    "name": "Duty Support",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Duty_Support",
+    "image": ""
+  },
+  {
+    "name": "attributes",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Attributes",
+    "image": ""
+  },
+  {
+    "name": "Item Level",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Item_Level",
+    "image": ""
+  },
+  {
+    "name": "Market Board",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Market_Board",
+    "image": ""
+  },
+  {
+    "name": "High Quality",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/High_Quality",
+    "image": ""
+  },
+  {
+    "name": "Gil",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Gil",
+    "image": ""
+  },
+  {
+    "name": "Rarity",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Rarity",
+    "image": ""
+  },
+  {
+    "name": "Item Level",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Item_Level",
+    "image": ""
+  },
+  {
+    "name": "Glamour",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Glamour",
+    "image": ""
+  },
+  {
+    "name": "Glamour",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Glamour",
+    "image": ""
+  },
+  {
+    "name": "Final Fantasy XIV",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Final_Fantasy_XIV",
+    "image": ""
+  },
+  {
+    "name": "glamour",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Glamour",
+    "image": ""
+  },
+  {
+    "name": "dyed",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Dye_(action)",
+    "image": ""
+  },
+  {
+    "name": "Cast Glamour",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Cast_Glamour",
+    "image": ""
+  },
+  {
+    "name": "Glamour Prism",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Glamour_Prism",
+    "image": ""
+  },
+  {
+    "name": "Glamour Plate",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Glamour_Plate",
+    "image": ""
+  },
+  {
+    "name": "Items",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Items",
+    "image": ""
+  },
+  {
+    "name": "Weapons",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Weapons",
+    "image": ""
+  },
+  {
+    "name": "Tools",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Tools",
+    "image": ""
+  },
+  {
+    "name": "Accessories",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Accessories",
+    "image": ""
+  },
+  {
+    "name": "Medicines and Meals",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Medicines_and_Meals",
+    "image": ""
+  },
+  {
+    "name": "Materials",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Materials",
+    "image": ""
+  },
+  {
+    "name": "Other",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Other",
+    "image": ""
+  }
+]
