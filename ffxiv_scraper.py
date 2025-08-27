@@ -1,61 +1,54 @@
 import requests
 from bs4 import BeautifulSoup
-import csv
 import json
-import os
 
-# Target page to scrape
-START_PAGE = "https://ffxiv.consolegameswiki.com/wiki/Armor"
+# Base URL of the wiki
+BASE_URL = "https://ffxiv.consolegameswiki.com"
 
-# Output folder (GitHub Pages root = docs/)
-OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "docs")
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+# Page containing list of armor
+LIST_URL = f"{BASE_URL}/wiki/Equipment"
 
-CSV_FILE = os.path.join(OUTPUT_DIR, "ffxiv_armor.csv")
-JSON_FILE = os.path.join(OUTPUT_DIR, "ffxiv_armor.json")
+response = requests.get(LIST_URL)
+response.raise_for_status()
 
-def scrape_armor():
-    print("🔎 Fetching armor list from:", START_PAGE)
-    response = requests.get(START_PAGE)
-    response.raise_for_status()
+soup = BeautifulSoup(response.text, "html.parser")
 
-    soup = BeautifulSoup(response.text, "html.parser")
+armor_items = []
 
-    # Simplistic example: all links inside wiki content
-    armor_data = []
-    for link in soup.select("div#mw-content-text a"):
-        name = link.get_text(strip=True)
-        href = link.get("href", "")
-        if not name or not href:
-            continue
-        if not href.startswith("http"):
-            href = "https://ffxiv.consolegameswiki.com" + href
+# Assume armor items are in tables or list elements
+for link in soup.select("a[href*='/wiki/']"):  # All internal wiki links
+    name = link.get_text(strip=True)
+    url = BASE_URL + link['href']
 
-        # Only keep links that look like gear/armor pages
-        if "/wiki/" in href and len(name) > 2:
-            armor_data.append({
-                "name": name,
-                "url": href,
-                "image": "",  # can be extended to fetch page + image
-            })
+    # Skip links without names
+    if not name or name.lower() == "equipment":
+        continue
 
-    print(f"✅ Found {len(armor_data)} armor entries")
+    # Visit the item page to get the main image
+    try:
+        item_resp = requests.get(url)
+        item_resp.raise_for_status()
+        item_soup = BeautifulSoup(item_resp.text, "html.parser")
+        # Wiki main image is usually in infobox with class "pi-image-thumbnail"
+        img_tag = item_soup.select_one(".pi-image-thumbnail img")
+        if img_tag and img_tag.has_attr("src"):
+            image_url = img_tag["src"]
+            if image_url.startswith("//"):
+                image_url = "https:" + image_url
+        else:
+            image_url = ""  # fallback
 
-    # Save CSV
-    with open(CSV_FILE, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["name", "url", "image"])
-        writer.writeheader()
-        writer.writerows(armor_data)
-    print("📄 Saved CSV:", CSV_FILE)
+        armor_items.append({
+            "name": name,
+            "url": url,
+            "image": image_url
+        })
 
-    # Save JSON
-    with open(JSON_FILE, "w", encoding="utf-8") as f:
-        json.dump(armor_data, f, indent=2, ensure_ascii=False)
-    print("📄 Saved JSON:", JSON_FILE)
+    except Exception as e:
+        print(f"Failed to fetch {url}: {e}")
 
-    print("\n🌐 Once pushed to GitHub, files will be live at:")
-    print("   https://lynesdesigns.github.io/FF14ArmorDB/ffxiv_armor.json")
-    print("   https://lynesdesigns.github.io/FF14ArmorDB/ffxiv_armor.csv")
+# Save to JSON
+with open("armor_items.json", "w", encoding="utf-8") as f:
+    json.dump(armor_items, f, indent=2, ensure_ascii=False)
 
-if __name__ == "__main__":
-    scrape_armor()
+print(f"Saved {len(armor_items)} items to armor_items.json")
