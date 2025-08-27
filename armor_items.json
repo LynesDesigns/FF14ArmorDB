@@ -1,0 +1,597 @@
+[
+  {
+    "name": "weapons",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Weapons",
+    "image": ""
+  },
+  {
+    "name": "armor",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Armor",
+    "image": ""
+  },
+  {
+    "name": "enemies",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Enemies",
+    "image": ""
+  },
+  {
+    "name": "crafting",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Crafting",
+    "image": ""
+  },
+  {
+    "name": "gathering",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Gathering",
+    "image": ""
+  },
+  {
+    "name": "class",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Class",
+    "image": ""
+  },
+  {
+    "name": "job",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Job",
+    "image": ""
+  },
+  {
+    "name": "item level",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Item_level",
+    "image": ""
+  },
+  {
+    "name": "attributes",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Attributes",
+    "image": ""
+  },
+  {
+    "name": "experience",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Experience",
+    "image": ""
+  },
+  {
+    "name": "materia",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Materia",
+    "image": ""
+  },
+  {
+    "name": "Durability",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Durability",
+    "image": ""
+  },
+  {
+    "name": "mender",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Mender",
+    "image": ""
+  },
+  {
+    "name": "Repair",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Repair_(action)",
+    "image": ""
+  },
+  {
+    "name": "glamour",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Glamour",
+    "image": ""
+  },
+  {
+    "name": "dye",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Dye",
+    "image": ""
+  },
+  {
+    "name": "PvP",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/PvP",
+    "image": ""
+  },
+  {
+    "name": "Weapons",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Weapons",
+    "image": ""
+  },
+  {
+    "name": "classes",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Class",
+    "image": ""
+  },
+  {
+    "name": "jobs",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Job",
+    "image": ""
+  },
+  {
+    "name": "Tools",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Tools",
+    "image": ""
+  },
+  {
+    "name": "Armor",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Armor",
+    "image": ""
+  },
+  {
+    "name": "Armor",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Armor",
+    "image": ""
+  },
+  {
+    "name": "attribute",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Attribute",
+    "image": ""
+  },
+  {
+    "name": "Disciples of War",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Disciples_of_War",
+    "image": ""
+  },
+  {
+    "name": "Disciples of Magic",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Disciples_of_Magic",
+    "image": ""
+  },
+  {
+    "name": "Disciples of the Hand",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Disciples_of_the_Hand",
+    "image": ""
+  },
+  {
+    "name": "Disciples of the Land",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Disciples_of_the_Land",
+    "image": ""
+  },
+  {
+    "name": "Accessories",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Accessories",
+    "image": ""
+  },
+  {
+    "name": "Accessories",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Accessories",
+    "image": ""
+  },
+  {
+    "name": "attribute",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Attribute",
+    "image": ""
+  },
+  {
+    "name": "adventurer",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Adventurer",
+    "image": ""
+  },
+  {
+    "name": "Disciples of War",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Disciples_of_War",
+    "image": ""
+  },
+  {
+    "name": "Disciples of Magic",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Disciples_of_Magic",
+    "image": ""
+  },
+  {
+    "name": "Disciples of the Hand",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Disciples_of_the_Hand",
+    "image": ""
+  },
+  {
+    "name": "Disciples of the Land",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Disciples_of_the_Land",
+    "image": ""
+  },
+  {
+    "name": "Facewear",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Facewear",
+    "image": ""
+  },
+  {
+    "name": "Leveling Gear Guide",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Leveling_Gear_Guide",
+    "image": ""
+  },
+  {
+    "name": "Endgame Gear Guide",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Endgame_Gear_Guide",
+    "image": ""
+  },
+  {
+    "name": "Weapons",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Weapons",
+    "image": ""
+  },
+  {
+    "name": "GLA / PLD",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Gladiator%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "MRD / WAR",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Marauder%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "DRK",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Dark_Knight%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "GNB",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Gunbreaker%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "LNC / DRG",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Lancer%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "RPR",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Reaper%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "PGL / MNK",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Pugilist%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "SAM",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Samurai%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "ROG / NIN",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Rogue%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "VPR",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Viper%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "ARC / BRD",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Archer%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "MCH",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Machinist%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "DNC",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Dancer%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "1-handed",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/One-handed_Thaumaturge%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "2-handed",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Two-handed_Thaumaturge%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "ACN / SMN",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Arcanist%27s_Grimoire",
+    "image": ""
+  },
+  {
+    "name": "RDM",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Red_Mage%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "PCT",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Pictomancer%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "1-handed",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/One-handed_Conjurer%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "2-handed",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Two-handed_Conjurer%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "SCH",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Scholar%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "AST",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Astrologian%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "SGE",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Sage%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "BLU",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Blue_Mage%27s_Arm",
+    "image": ""
+  },
+  {
+    "name": "Armor",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Armor",
+    "image": ""
+  },
+  {
+    "name": "Head",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Head",
+    "image": ""
+  },
+  {
+    "name": "Body",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Body",
+    "image": ""
+  },
+  {
+    "name": "Hands",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Hands",
+    "image": ""
+  },
+  {
+    "name": "Legs",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Legs",
+    "image": ""
+  },
+  {
+    "name": "Feet",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Feet",
+    "image": ""
+  },
+  {
+    "name": "Shield",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Shield",
+    "image": ""
+  },
+  {
+    "name": "Accessories",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Accessories",
+    "image": ""
+  },
+  {
+    "name": "Facewear",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Facewear",
+    "image": ""
+  },
+  {
+    "name": "Earrings",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Earrings",
+    "image": ""
+  },
+  {
+    "name": "Necklace",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Necklace",
+    "image": ""
+  },
+  {
+    "name": "Bracelets",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Bracelets",
+    "image": ""
+  },
+  {
+    "name": "Ring",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Ring",
+    "image": ""
+  },
+  {
+    "name": "Soul Crystals",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Soul_Crystals",
+    "image": ""
+  },
+  {
+    "name": "Page",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Equipment",
+    "image": ""
+  },
+  {
+    "name": "Read",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Equipment",
+    "image": ""
+  },
+  {
+    "name": "Main page",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki",
+    "image": ""
+  },
+  {
+    "name": "Classes",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Class",
+    "image": ""
+  },
+  {
+    "name": "Jobs",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Job",
+    "image": ""
+  },
+  {
+    "name": "Crafting",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Crafting",
+    "image": ""
+  },
+  {
+    "name": "Gathering",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Gathering",
+    "image": ""
+  },
+  {
+    "name": "Quests",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Quests",
+    "image": ""
+  },
+  {
+    "name": "Items",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Items",
+    "image": ""
+  },
+  {
+    "name": "Locations",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Locations",
+    "image": ""
+  },
+  {
+    "name": "Dungeons",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Dungeons",
+    "image": ""
+  },
+  {
+    "name": "Trials",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Trials",
+    "image": ""
+  },
+  {
+    "name": "Raids",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Raids",
+    "image": ""
+  },
+  {
+    "name": "Field Operations",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Field_Operations",
+    "image": ""
+  },
+  {
+    "name": "Lifestyle Content",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Lifestyle_Content",
+    "image": ""
+  },
+  {
+    "name": "Random page",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Special:Random",
+    "image": ""
+  },
+  {
+    "name": "Tural",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Tural",
+    "image": ""
+  },
+  {
+    "name": "Viper",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Viper",
+    "image": ""
+  },
+  {
+    "name": "Pictomancer",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Pictomancer",
+    "image": ""
+  },
+  {
+    "name": "Dawntrail MSQ",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Dawntrail_Main_Scenario_Quests",
+    "image": ""
+  },
+  {
+    "name": "Post-Dawntrail MSQ",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Post-Dawntrail_Main_Scenario_Quests",
+    "image": ""
+  },
+  {
+    "name": "Role Quests",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Role_Quests#Dawntrail",
+    "image": ""
+  },
+  {
+    "name": "Wachumeqimeqi Deliveries",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Wachumeqimeqi_Deliveries",
+    "image": ""
+  },
+  {
+    "name": "The Arcadion",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/The_Arcadion",
+    "image": ""
+  },
+  {
+    "name": "Echoes of Vana'diel",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Echoes_of_Vana%27diel",
+    "image": ""
+  },
+  {
+    "name": "Occult Crescent",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Occult_Crescent",
+    "image": ""
+  },
+  {
+    "name": "Cosmic Exploration",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Cosmic_Exploration",
+    "image": ""
+  },
+  {
+    "name": "Gearing Guide",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Gear_Guide",
+    "image": ""
+  },
+  {
+    "name": "Relic Weapons",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Relic_Weapons",
+    "image": ""
+  },
+  {
+    "name": "Content Unlock",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Content_Unlock",
+    "image": ""
+  },
+  {
+    "name": "Common Terms",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Acronyms,_abbreviations,_and_common_terms",
+    "image": ""
+  },
+  {
+    "name": "Community portal",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Final_Fantasy_XIV_Wiki:Community_portal",
+    "image": ""
+  },
+  {
+    "name": "To-Do List",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/To-Do_List",
+    "image": ""
+  },
+  {
+    "name": "Recent changes",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Special:RecentChanges",
+    "image": ""
+  },
+  {
+    "name": "What links here",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Special:WhatLinksHere/Equipment",
+    "image": ""
+  },
+  {
+    "name": "Related changes",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Special:RecentChangesLinked/Equipment",
+    "image": ""
+  },
+  {
+    "name": "Special pages",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Special:SpecialPages",
+    "image": ""
+  },
+  {
+    "name": "Browse properties",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Special:Browse/:Equipment",
+    "image": ""
+  },
+  {
+    "name": "Privacy policy",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Final_Fantasy_XIV_A_Realm_Reborn_Wiki:Privacy_policy",
+    "image": ""
+  },
+  {
+    "name": "About Final Fantasy XIV Online Wiki",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Final_Fantasy_XIV_A_Realm_Reborn_Wiki:About",
+    "image": ""
+  },
+  {
+    "name": "Disclaimers",
+    "url": "https://ffxiv.consolegameswiki.com/wiki/Final_Fantasy_XIV_A_Realm_Reborn_Wiki:General_disclaimer",
+    "image": ""
+  }
+]
